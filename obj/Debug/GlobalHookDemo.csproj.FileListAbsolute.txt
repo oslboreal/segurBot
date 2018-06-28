@@ -1,0 +1,7 @@
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\GlobalHookDemo.XML
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\GlobalHookDemo.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\GlobalHookDemo.pdb
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.pdb

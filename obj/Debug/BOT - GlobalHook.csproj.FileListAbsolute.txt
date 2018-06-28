@@ -1,0 +1,10 @@
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\SegurBot.xml
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\SegurBot.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Debug\SegurBot.pdb
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\BOT - GlobalHook.csproj.GenerateResource.Cache
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\SegurBot.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\SegurBot.pdb
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\GlobalHookDemo.Configuraciones.resources
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\BOT - GlobalHook.csprojAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Debug\BOT - GlobalHook.csproj.CoreCompileInputs.cache

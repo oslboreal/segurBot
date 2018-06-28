@@ -1,0 +1,6 @@
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Release\BOT - GlobalHook.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Release\GlobalHookDemo.MainForm.resources
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Release\BOT - GlobalHook.csproj.GenerateResource.Cache
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\bin\Release\SegurBot.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Release\SegurBot.exe
+C:\Users\Marcos Vallejo\Desktop\globalhook_1src\obj\Release\GlobalHookDemo.Configuraciones.resources
